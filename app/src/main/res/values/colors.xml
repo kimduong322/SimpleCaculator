@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background">#F6F1EE</color>
+    <color name="button_text">#4F4A45</color>
+    <color name="button_background_hover">#4F4A45</color>
+    <color name="button_text_hover">#F6F1EE</color>
+    <color name="textview_background">#F6F1EE</color>
+    <color name="textview_text">#6C5F5B</color>
+</resources>
